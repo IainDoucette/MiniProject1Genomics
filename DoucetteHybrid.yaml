@@ -1,6 +1,6 @@
 module: SequenceModule
 model:
-  model_name: HybridalaJores21
+  model_name: DoucetteHybrid
   arch_name: Hybrid
   arch:
     input_len: 170
